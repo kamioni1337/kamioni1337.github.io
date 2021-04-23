@@ -204,38 +204,7 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 	;
 }
 
-.link1{
-	color:#333;
-	text-decoration:none
-	;transition:color 0.2s linear; 
-  	display:inline-block;
-	margin:0 15px;
-	position: relative;
-	vertical-align:top;
-	left:70%
-	
-}
 
-.link1:after{
-	content:"";
-	display: block;
-	width: 100%;
-	height: 2px;
-	display: none;
-	background-color: #caa428;
-	position: absolute;
-	top: 100%;
-	left: 0;
-	z-index: 1;
-	
-}
-
-.link1:hover{color:#0011ff}
-
-.link1:hover:after{
-	display: block;
-	;
-}
 
 @media (max-width:1230px){
 	.intro_title{
