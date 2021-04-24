@@ -173,13 +173,9 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 
 .link{
 	color:#333;
-	text-decoration:none
-	;transition:color 0.2s linear; 
-  	display:inline-block;
-	margin:0 15px;
-	position: relative;
-	vertical-align:top;
-	left:100%
+	position: fixed;
+	right:45px;
+	bottom:45px
 	
 }
 
