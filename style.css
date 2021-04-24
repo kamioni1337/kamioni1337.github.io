@@ -174,8 +174,8 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 .link{
 	color:#333;
 	position: fixed;
-	right:45px;
-	bottom:45px
+	right:50px;
+	bottom:50px
 	
 }
 
@@ -199,6 +199,7 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 	display: block;
 	;
 }
+
 
 
 
