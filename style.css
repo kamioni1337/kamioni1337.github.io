@@ -142,7 +142,13 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 	font-size: 15px;
 }
 
+.spisok{
+	margin-top: 15px
+}
 
+.spisok1{
+	margin-top: 10px
+}
 /*table*/
 
 
@@ -165,7 +171,8 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 	position: fixed;
 	right:50px;
 	bottom:50px;
-	opacity: 0.5;	
+	opacity: 0.5;
+	
 }
 
 
@@ -195,14 +202,13 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 	.section_text{
 		font-size: 12px;
 	}
-	.nav{
-		font-size:15px;
-		text-transform:uppercase;
-	}
+	.nav{font-size:15px;
+		text-transform:uppercase
+	 }
 	.logo{font-size:27px;
 		font-weight:700;
-		color:#fff;
-	}
+		color:#fff
+	 }
 }
 
 @media (max-width:770px){
@@ -222,12 +228,12 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 		font-size: 10px;
 	}
 	.nav{font-size:13px;
-		text-transform:uppercase;
-	}
+		text-transform:uppercase
+	 }
 	.logo{font-size:25px;
 		font-weight:700;
-		 color:#fff;
-	}
+		 color:#fff
+	 }
 }
 
 @media (max-width:575px){
@@ -247,10 +253,10 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 		font-size: 8px;
 	}
 	.nav{font-size:11px;
-		text-transform:uppercase;
-	}
+		text-transform:uppercase
+	 }
 	.logo{font-size:23px;
 		font-weight:700;
-		 color:#fff;
+		 color:#fff
 	}
 }
