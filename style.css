@@ -101,8 +101,8 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 
 .nav_link:hover:after{
 	display: block;
-	;
 }
+
 
 
 /*Section*/
@@ -139,7 +139,7 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 }
 
 .section_text{
-	font-size: 15px;
+	font-size: 18px;
 }
 
 .spisok{
@@ -163,7 +163,7 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 
 
 .section_text2{
-	font-size:15px;
+	font-size:18px;
 }
 
 .link{
@@ -259,4 +259,9 @@ h1,h2,h3,h4,h5,h6{margin:0;}
 		font-weight:700;
 		 color:#fff
 	}
+}
+
+
+ul{
+	list-style: none;
 }
